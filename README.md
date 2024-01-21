@@ -23,8 +23,8 @@
 ### :man_technologist: :man_student: About me
 
 
-- Er programmerer og student
-- Er glad i å bygge selv inspirerte prosjekter basert på interesser og hobbier
+- Programmer and srtudnt
+- Enjoy building self inspired projects based interesests og hobbies
 
 
 
