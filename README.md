@@ -1,7 +1,7 @@
 # About me
 
 <h1 align="center">Hi 🖖🏽, I'm Selleban Farah</h1>
-<h3 align="center">A programmer and Developer</h3>
+<h3 align="center">Masters student, Programmer and Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=selleban2209&label=Profile%20views&color=0e75b6&style=flat" alt="selleban2209" /> </p>
 
