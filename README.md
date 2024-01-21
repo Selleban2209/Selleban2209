@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🖖🏽, I'm Selleban Farah</h1>
 <h3 align="center">A programmer and Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selleban2209&label=Profile%20views&color=0e75b6&style=flat" alt="selleban2209" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=selleban2209&label=Profile%20views&color=0e75b6&style=flat" alt="selleban2209" /> </p>
 
 - 🌱 I’m currently learning **Currently in my seccond semester of my master studies at UiO for programming and systemarchitecture**
 
