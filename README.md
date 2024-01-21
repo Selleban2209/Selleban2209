@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Currently in my seccond semester of my master studies at UiO for programming and systemarchitecture**
 
-- 📫 How to reach me **salle2209@gmail.com**
+- 📫 Shoot me a mail! **salle2209@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZvMkrYW7v7WzMdYlFEgJMxkpKrPu3CdS/view?usp=sharing](https://drive.google.com/file/d/1ZvMkrYW7v7WzMdYlFEgJMxkpKrPu3CdS/view?usp=sharing)
+- 📄My Resume [https://drive.google.com/file/d/1ZvMkrYW7v7WzMdYlFEgJMxkpKrPu3CdS/view?usp=sharing](https://drive.google.com/file/d/1ZvMkrYW7v7WzMdYlFEgJMxkpKrPu3CdS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
