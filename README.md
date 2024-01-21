@@ -23,7 +23,7 @@
 ### :man_technologist: :man_student: About me
 
 
-- Programmer and srtudnt
+- Programmer and student
 - Enjoy building self inspired projects based interesests og hobbies
 
 
