@@ -1,4 +1,3 @@
-# About me
 
 <h1 align="center">Hi 🖖🏽, I'm Selleban Farah</h1>
 <h3 align="center">Masters student, Programmer and Developer</h3>
@@ -21,7 +20,7 @@
 --- 
 
 ######
-### :man_technologist: :man_student: Om Meg 
+### :man_technologist: :man_student: About me
 
 
 - Er programmerer og student
