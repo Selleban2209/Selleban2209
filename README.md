@@ -23,7 +23,7 @@
 ### :man_technologist: :man_student: About me
 
 
-- Programmer and student
+- Programmer, mainly backend heavy projects, across many languages
 - Enjoy building self inspired projects based interesests og hobbies
 
 
