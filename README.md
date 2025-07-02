@@ -8,7 +8,8 @@
 
 - 📫 Shoot me a mail! **salle2209@gmail.com**
 
-- 📄My Resume (https://drive.google.com/file/d/1EcI1aQDzKGnXLEOjhzV2khthPhXqtXuo/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/1EcI1aQDzKGnXLEOjhzV2khthPhXqtXuo/view?usp=drive_link" >My Resume</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
